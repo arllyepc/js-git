@@ -3,3 +3,5 @@
 JavaScript
 
 */
+
+console.log(alo);
